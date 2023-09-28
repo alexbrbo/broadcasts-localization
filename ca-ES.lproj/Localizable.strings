@@ -84,14 +84,14 @@
 
 "WELCOME_COPY" = "Benvinguts a Broadcasts! Si voleu, tenim algunes emissores predefinides del nostre país amb les que podem estrenar la seva biblioteca.\n\nO, si ho preferiu, afegiu les vostres pròpies emissores manualment o trieu entre milers en el directori.";
 
-"WELCOME_UPSELL" = "Benvinguts a Broadcasts! En aquesta versió gratuïta, tenim algunes emissores predefinides del nostre país amb les que podem estrenar la vostra biblioteca.\n\nO, si prefereix actualitzar a la versió de pagament, pot afegir les seves pròpies emissores manualment o triar entre milers en el directori.";
+"WELCOME_UPSELL" = "Benvinguts a Broadcasts! En aquesta versió gratuïta, tenim algunes emissores predefinides del nostre país amb les que podem estrenar la vostra biblioteca.\n\nO, si preferiu actualitzar a la versió de pagament, pot afegir les seves pròpies emissores manualment o triar entre milers en el directori.";
 
 "WELCOME_ADD_PRESETS" = "Afegir emissores predefinides";
 "WELCOME_NO_THANKS" = "No, gràcies";
 
 "GENERATED_COLLECTION_TITLE" = "La meva col·lecció";
 
-"UPSELL_COPY" = "Gràcies per utilitzar Broadcasts!\n\nPodeu desbloquejar les funcions avançades de Broadcasts amb una compra a l'aplicació, si ho desitja.\n\nO, si ho prefereix, continuï fent servir i editant les emissores predefinides.";
+"UPSELL_COPY" = "Gràcies per utilitzar Broadcasts!\n\nPodeu desbloquejar les funcions avançades de Broadcasts amb una compra a l'aplicació, si ho desitja.\n\nO, si ho preferiu, continueu fent servir i editant les emissores predefinides.";
 "UPSELL_BUY" = "Compra (%@)";
 "UPSELL_NOT_AVAILABLE" = "No disponible";
 "UPSELL_RESTORE" = "Restaurar compra";
