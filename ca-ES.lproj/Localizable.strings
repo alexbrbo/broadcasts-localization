@@ -386,7 +386,7 @@
 /* Help */
 
 "MENU_HELP_HELP" = "Ajuda de l'app Broadcasts";
-"HELP_TOC_TITLE" = "Help";
+"HELP_TOC_TITLE" = "Ajuda";
 "HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
 "SEARCH_RECENTS_TITLE" = "Recent Searches";
 "SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
