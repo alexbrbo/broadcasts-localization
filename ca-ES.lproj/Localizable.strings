@@ -396,7 +396,7 @@
 /* V3.x Onboarding */
 
 "ONBOARDING_NO_STATIONS" = "Sense emissores";
-"ONBOARDING_NO_STATIONS_COPY" = "Afegiu les vostres emissores preferides des del Navegador d'emissores o comenceu amb les emissores de mostra.";
+"ONBOARDING_NO_STATIONS_COPY" = "Afegiu les vostres emissores preferides des d'Explora o comenceu amb les emissores de mostra.";
 "ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Afegir emissores de mostra";
 
 /* Sharing */
