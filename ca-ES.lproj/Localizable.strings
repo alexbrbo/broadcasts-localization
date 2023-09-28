@@ -267,12 +267,12 @@
 "PREFERENCES_SYNC_ADVANCED_UPLOAD" = "Upload…";
 "PREFERENCES_SYNC_ADVANCED_DOWNLOAD" = "Download…";
 
-"PREFERENCES_GENERAL_SUPPORT_HEADER" = "Help & Support";
-"PREFERENCES_GENERAL_SUPPORT_EMAIL" = "Email Support";
+"PREFERENCES_GENERAL_SUPPORT_HEADER" = "Ajuda i suport";
+"PREFERENCES_GENERAL_SUPPORT_EMAIL" = "Enviar un e-mail al nostre suport";
 "PREFERENCES_GENERAL_SUPPORT_TWITTER" = "Tuita @GetBroadcasts";
 
-"PREFERENCES_GENERAL_OTHER_APPS_HEADER" = "Our Apps";
-"PREFERENCES_GENERAL_OTHER_APPS_LINK" = "See More in App Store";
+"PREFERENCES_GENERAL_OTHER_APPS_HEADER" = "Les nostres Apps";
+"PREFERENCES_GENERAL_OTHER_APPS_LINK" = "Veure més a l'App Store";
 
 "PREFERENCES_GENERAL_PASTEL_LINK" = "Pastel"; /* Do not localize */
 
@@ -292,7 +292,7 @@
 /* Mini Player */
 "MENU_MINIPLAYER" = "Mostrar el reproductor en miniatura";
 "MINI_PLAYER_TITLE" = "MiniPlayer";
-"MENU_MINIPLAYER_FLOAT" = "Float on Top";
+"MENU_MINIPLAYER_FLOAT" = "En primer pla";
 
 /* Help & Support */
 "MENU_HELP_GETSUPPORT_EMAIL" = "Contact Support…";
@@ -331,11 +331,11 @@
 "PREFERENCES_GENERAL_ENABLE_SHAZAM" = "Enable Shazam";
 "PREFERENCES_GENERAL_SHAZAM_FOOTER" = "Shazam uses your microphone to provide metadata for music playing through the speakers or nearby.";
 
-"VIEW_ON_APPLE_MUSIC" = "View on Apple Music";
+"VIEW_ON_APPLE_MUSIC" = "Veure a l'Apple Music";
 "NOWPLAYING_SHAZAM" = "Find with Shazam";
-"SHAZAM_VIEW_HISTORY" = "History";
-"SHAZAM_HISTORY_TITLE" = "History";
-"SHAZAM_HISTORY_SEARCH_PLACEHOLDER" = "Find in History";
+"SHAZAM_VIEW_HISTORY" = "Historial";
+"SHAZAM_HISTORY_TITLE" = "Historial";
+"SHAZAM_HISTORY_SEARCH_PLACEHOLDER" = "Buscar a l'historial";
 
 /* Artwork Picker */
 "ARTWORK_EDITOR_HEADER_TEXT" = "Text";
