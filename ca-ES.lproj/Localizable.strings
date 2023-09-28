@@ -91,7 +91,7 @@
 
 "GENERATED_COLLECTION_TITLE" = "La meva col·lecció";
 
-"UPSELL_COPY" = "Gràcies per utilitzar Broadcasts!\n\nPodeu desbloquejar les funcions avançades de Broadcasts amb una compra a l'aplicació, si ho desitja.\n\nO, si ho preferiu, continueu fent servir i editant les emissores predefinides.";
+"UPSELL_COPY" = "Gràcies per utilitzar Broadcasts!\n\nPodeu desbloquejar les funcions avançades de Broadcasts amb una compra a l'aplicació, si voleu.\n\nO, si ho preferiu, continueu fent servir i editant les emissores predefinides.";
 "UPSELL_BUY" = "Compra (%@)";
 "UPSELL_NOT_AVAILABLE" = "No disponible";
 "UPSELL_RESTORE" = "Restaurar compra";
