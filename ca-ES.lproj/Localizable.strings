@@ -286,8 +286,8 @@
 "PREFERENCES_GENERAL_NETWORK_TIMEOUT_120" = "120 seconds";
 
 "PREFERENCES_GENERAL_HARDWARE_HEADER" = "Dispositius";
-"PREFERENCES_GENERAL_ENABLE_GAMEPAD" = "Enable Game Controller";
-"PREFERENCES_GENERAL_ENABLE_MIRRORING" = "Show Now Playing on External Displays";
+"PREFERENCES_GENERAL_ENABLE_GAMEPAD" = "Activar comandaments de joc";
+"PREFERENCES_GENERAL_ENABLE_MIRRORING" = "Mostrar 'En reproducció' a pantalles externes";
 
 /* Mini Player */
 "MENU_MINIPLAYER" = "Mostrar el reproductor en miniatura";
