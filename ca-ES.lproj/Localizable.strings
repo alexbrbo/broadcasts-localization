@@ -52,7 +52,7 @@
 "ALERT_OK" = "Acceptar";
 "ALERT_ADD" = "Afegir";
 "ALERT_CANCEL" = "Cancel";
-"ALERT_DELETE" = "eliminar";
+"ALERT_DELETE" = "Eliminar";
 
 "ADD_STATION_WINDOW_TITLE" = "Afegir nova emissora";
 "EDIT_STATION_WINDOW_TITLE" = "Edita emissora";
