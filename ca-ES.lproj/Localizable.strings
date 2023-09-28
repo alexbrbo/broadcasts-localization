@@ -250,8 +250,8 @@
 "PREFERENCES_GENERAL_LIST_SIZE_LARGE" = "Large";
 "PREFERENCES_GENERAL_LIST_SIZE_EXTRA_LARGE" = "Extra Large";
 
-"PREFERENCES_GENERAL_VIEW_ZOOM_ARTWORK" = "Zoom artwork on hover";
-"PREFERENCES_GENERAL_VIEW_ENABLE_TINTING" = "Allow artwork tinting";
+"PREFERENCES_GENERAL_VIEW_ZOOM_ARTWORK" = "Ampliar la portada amb el punter al damunt";
+"PREFERENCES_GENERAL_VIEW_ENABLE_TINTING" = "Permetre que la portada determini la tintura de fons de pantalla";
 
 "PREFERENCES_SYNC_TITLE" = "Sincronització";
 
@@ -339,7 +339,7 @@
 
 /* Artwork Picker */
 "ARTWORK_EDITOR_HEADER_TEXT" = "Text";
-"ARTWORK_EDITOR_HEADER_STYLE" = "Style";
+"ARTWORK_EDITOR_HEADER_STYLE" = "Estil";
 
 "ARTWORK_PICKER_PICK_PHOTO" = "Photos";
 "ARTWORK_PICKER_PICK_FILE" = "File";
@@ -354,11 +354,11 @@
 "ARTWORK_EDITOR_TITLE_BACK" = "Back";
 "ARTWORK_EDITOR_TITLE_DONE" = "Choose";
 
-"ARTWORK_PICKER_HEADING_MORE" = "More";
+"ARTWORK_PICKER_HEADING_MORE" = "Més";
 
-"ARTWORK_PICKER_BUTTONS_DONE" = "Done";
-"ARTWORK_PICKER_BUTTONS_CANCEL" = "Cancel";
-"ARTWORK_PICKER_TITLE" = "Choose Artwork";
+"ARTWORK_PICKER_BUTTONS_DONE" = "Fet";
+"ARTWORK_PICKER_BUTTONS_CANCEL" = "Cancel·lar";
+"ARTWORK_PICKER_TITLE" = "Triar portada";
 
 /* Playback Resume */
 
