@@ -75,10 +75,10 @@
 "STATION_CONTEXT_MOVE" = "Moure a la col·lecció";
 
 "CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Eliminar \"%@\"";
-"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Esteu segur que voleu eliminar aquesta col·lecció i totes les emissores que conté?";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Esteu segurs que voleu eliminar aquesta col·lecció i totes les emissores que conté?";
 
 "CONTEXT_ALERT_DELETE_STATION_TITLE" = "Eliminar \"%@\"";
-"CONTEXT_ALERT_DELETE_STATION_BODY" = "Segur que vols eliminar aquesta emissora?";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Esteu segurs que voleu eliminar aquesta emissora?";
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Sense emissores";
 
