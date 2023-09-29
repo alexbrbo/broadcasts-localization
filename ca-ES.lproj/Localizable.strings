@@ -51,7 +51,7 @@
 
 "ALERT_OK" = "Acceptar";
 "ALERT_ADD" = "Afegir";
-"ALERT_CANCEL" = "Cancel";
+"ALERT_CANCEL" = "Cancel·lar";
 "ALERT_DELETE" = "Eliminar";
 
 "ADD_STATION_WINDOW_TITLE" = "Afegir nova emissora";
@@ -91,7 +91,7 @@
 
 "GENERATED_COLLECTION_TITLE" = "La meva col·lecció";
 
-"UPSELL_COPY" = "Gràcies per utilitzar Broadcasts!\n\nPodeu desbloquejar les funcions avançades de Broadcasts amb una compra a l'aplicació, si voleu.\n\nO, si ho preferiu, continueu fent servir i editant les emissores predefinides.";
+"UPSELL_COPY" = "Gràcies per utilitzar Broadcasts!\n\nPodeu desbloquejar les funcions avançades de Broadcasts amb una compra a l'aplicació.\n\nO, si ho preferiu, continueu fent servir i editant les emissores predefinides.";
 "UPSELL_BUY" = "Compra (%@)";
 "UPSELL_NOT_AVAILABLE" = "No disponible";
 "UPSELL_RESTORE" = "Restaurar compra";
@@ -204,7 +204,7 @@
 "EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "Imatge";
 
 "EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Seleccionar imatge…";
-"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Límit d'emissores assolit. Per favor, actualitza a la versió completa per a afegir més emissores.";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Límit d'emissores assolit. Per favor, actualitzeu a la versió completa per afegir més emissores.";
 
 "TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Anterior";
 "TOOLBAR_NEXTBUTTON_TOOLTIP" = "Següent";
@@ -226,11 +226,11 @@
 "INSPECTOR_ADD_TO_LIBRARY" = "Afegir a la llibreria";
 "INSPECTOR_ADD_TO_COLLECTION" = "Afegir a…";
 "INSPECTOR_ADD_TO_COLLECTION_ADDED" = "Afegida";
-"INSPECTOR_SECTION_TAGS_NONE" = "No tags";
+"INSPECTOR_SECTION_TAGS_NONE" = "Sense etiquetes";
 
 "PREVIEW_BUTTON_PREVIEW" = "PREVIEW";
 
-"DIRECTORY_OTHER" = "Other";
+"DIRECTORY_OTHER" = "Altres";
 
 /* V3.0 */
 
@@ -242,7 +242,7 @@
 
 "PREFERENCES_GENERAL_TITLE" = "General";
 
-"PREFERENCES_GENERAL_VIEW_HEADER" = "View";
+"PREFERENCES_GENERAL_VIEW_HEADER" = "Visualització";
 "PREFERENCES_GENERAL_LIST_SIZE_HEADER" = "Mida dels ítems de llista";
 "PREFERENCES_GENERAL_LIST_SIZE_HEADER_MAC" = "Mida dels ítems de llista:";
 
@@ -263,27 +263,27 @@
 "PREFERENCES_SYNC_STATUS_SYNCED_TIME" = "Última actualització: %@";
 
 "PREFERENCES_SYNC_SYNC_NOW" = "Sincronitza ara";
-"PREFERENCES_SYNC_ADVANCED" = "Advanced";
-"PREFERENCES_SYNC_ADVANCED_UPLOAD" = "Upload…";
-"PREFERENCES_SYNC_ADVANCED_DOWNLOAD" = "Download…";
+"PREFERENCES_SYNC_ADVANCED" = "Avançat";
+"PREFERENCES_SYNC_ADVANCED_UPLOAD" = "Pujar…";
+"PREFERENCES_SYNC_ADVANCED_DOWNLOAD" = "Descarregar…";
 
 "PREFERENCES_GENERAL_SUPPORT_HEADER" = "Ajuda i suport";
 "PREFERENCES_GENERAL_SUPPORT_EMAIL" = "Enviar un e-mail al nostre suport";
 "PREFERENCES_GENERAL_SUPPORT_TWITTER" = "Tuita @GetBroadcasts";
 
 "PREFERENCES_GENERAL_OTHER_APPS_HEADER" = "Les nostres Apps";
-"PREFERENCES_GENERAL_OTHER_APPS_LINK" = "Veure més a l'App Store";
+"PREFERENCES_GENERAL_OTHER_APPS_LINK" = "Veure'n més a l'App Store";
 
 "PREFERENCES_GENERAL_PASTEL_LINK" = "Pastel"; /* Do not localize */
 
 "PREFERENCES_GENERAL_ADVANCED" = "Avançat";
 "PREFERENCES_GENERAL_NETWORK_HEADER" = "Xarxa";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER" = "Directory timeout";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER_MAC" = "Directory timeout:";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_15" = "15 seconds";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_30" = "30 seconds";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_60" = "60 seconds";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_120" = "120 seconds";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER" = "Temps d'espera del directori";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER_MAC" = "Temps d'espera del directori:";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_15" = "15 segons";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_30" = "30 segons";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_60" = "60 segons";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_120" = "120 segons";
 
 "PREFERENCES_GENERAL_HARDWARE_HEADER" = "Dispositius";
 "PREFERENCES_GENERAL_ENABLE_GAMEPAD" = "Activar comandaments de joc";
@@ -305,17 +305,17 @@
 "SEARCH_YOUR_LIBRARY" = "La teva llibreria";
 
 "SEARCH_MENU_CACHE" = "Cache All Stations";
-"SEARCH_MENU_SEARCH_TAGS" = "Search Tags";
+"SEARCH_MENU_SEARCH_TAGS" = "Buscar etiquetes";
 
 /* Misc */
 "COLLECTIONS_LIST_CLEAR_RECENTS" = "Buidar els recents";
-"PREVIEW_BUTTON_PREVIEW_NORMAL" = "Preview";
+"PREVIEW_BUTTON_PREVIEW_NORMAL" = "Previsualitzar";
 
 "MENU_VISUALIZER" = "Visualizer";
 "FLUID_NOW_PLAYING_ACCESSIBILITY_CLOSE" = "Dismiss Now Playing screen";
 
-"COLLECTIONS_SEARCH_PLACEHOLDER" = "Find in Collections";
-"STATIONS_SEARCH_PLACEHOLDER" = "Find in %@";
+"COLLECTIONS_SEARCH_PLACEHOLDER" = "Buscar a Col·leccions";
+"STATIONS_SEARCH_PLACEHOLDER" = "Buscar a %@";
 
 "EDIT_COLLECTION_BUTTON_SHORT" = "Editar";
 "ADD_COLLECTION_BUTTON_SHORT" = "Afegir";
@@ -328,11 +328,11 @@
 
 "PREFERENCES_GENERAL_SHAZAM_HEADER" = "Shazam";
 "PREFERENCES_GENERAL_SHAZAM_HEADER_BETA" = "Shazam (Beta)";
-"PREFERENCES_GENERAL_ENABLE_SHAZAM" = "Enable Shazam";
-"PREFERENCES_GENERAL_SHAZAM_FOOTER" = "Shazam uses your microphone to provide metadata for music playing through the speakers or nearby.";
+"PREFERENCES_GENERAL_ENABLE_SHAZAM" = "Activar Shazam";
+"PREFERENCES_GENERAL_SHAZAM_FOOTER" = "Shazam utilitza el micròfon per proporcionar metadades per a la música que es reprodueix als altaveus o a prop.";
 
 "VIEW_ON_APPLE_MUSIC" = "Veure a l'Apple Music";
-"NOWPLAYING_SHAZAM" = "Find with Shazam";
+"NOWPLAYING_SHAZAM" = "Buscar amb Shazam";
 "SHAZAM_VIEW_HISTORY" = "Historial";
 "SHAZAM_HISTORY_TITLE" = "Historial";
 "SHAZAM_HISTORY_SEARCH_PLACEHOLDER" = "Buscar a l'historial";
@@ -341,17 +341,17 @@
 "ARTWORK_EDITOR_HEADER_TEXT" = "Text";
 "ARTWORK_EDITOR_HEADER_STYLE" = "Estil";
 
-"ARTWORK_PICKER_PICK_PHOTO" = "Photos";
-"ARTWORK_PICKER_PICK_FILE" = "File";
+"ARTWORK_PICKER_PICK_PHOTO" = "Fotos";
+"ARTWORK_PICKER_PICK_FILE" = "Arxiu";
 "ARTWORK_PICKER_PICK_TEXT" = "Text";
-"ARTWORK_PICKER_PICK_PRESET" = "Preset";
+"ARTWORK_PICKER_PICK_PRESET" = "Preestablert";
 
 "ARTWORK_PICKER_STYLE_PASTEL" = "Pastel";
 "ARTWORK_PICKER_STYLE_VIBRANT" = "Vibrant";
 
 "ARTWORK_EDITOR_TITLE_TEXT" = "Text";
-"ARTWORK_EDITOR_TITLE_PRESET" = "Preset";
-"ARTWORK_EDITOR_TITLE_BACK" = "Back";
+"ARTWORK_EDITOR_TITLE_PRESET" = "Preestablert";
+"ARTWORK_EDITOR_TITLE_BACK" = "Tornar";
 "ARTWORK_EDITOR_TITLE_DONE" = "Triar";
 
 "ARTWORK_PICKER_HEADING_MORE" = "Més";
@@ -374,9 +374,9 @@
 
 /* IAP */
 
-"UPSELL_V3_TITLE" = "Thanks for using Broadcasts!";
-"UPSELL_V3_COPY" = "Your Broadcasts Library can store up to five stations for free. You can remove this limit with an in-app purchase, if you'd like.\n\nOr, if you prefer, delete some stations or collections to make space.";
-"UPSELL_V3_FAMILY" = "This purchase supports Family Sharing";
+"UPSELL_V3_TITLE" = "Gràcies per utilitzar Broadcasts!";
+"UPSELL_V3_COPY" = "La vostra llibreria de Broadcasts pot emmagatzemar fins a cinc emissores de forma gratuïta. Podeu eliminar aquest límit amb una compra des de l'aplicació.\n\nO, si ho preferiu, suprimiu algunes emissores o col·leccions per fer espai.";
+"UPSELL_V3_FAMILY" = "Aquesta compra es pot compartir amb altres persones del teu grup 'En família'";
 
 /* Volume Menu */
 
@@ -388,16 +388,16 @@
 "MENU_HELP_HELP" = "Ajuda de l'app Broadcasts";
 "HELP_TOC_TITLE" = "Ajuda";
 "HELP_TOC_SEARCH_PLACEHOLDER" = "Buscar";
-"SEARCH_RECENTS_TITLE" = "Recent Searches";
-"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
-"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
-"SEARCH_RESULTS" = "Search Results";
+"SEARCH_RECENTS_TITLE" = "Cerques recents";
+"SEARCH_RECENTS_CLEAR" = "Buidar les cerques recents";
+"SEARCH_RECENTS_NO_RECENTS" = "Cap cerca recent";
+"SEARCH_RESULTS" = "Resultats de la cerca";
 
 /* V3.x Onboarding */
 
 "ONBOARDING_NO_STATIONS" = "Sense emissores";
 "ONBOARDING_NO_STATIONS_COPY" = "Afegiu les vostres emissores preferides des d'Explora o comenceu amb les emissores de mostra.";
-"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Afegir emissores de mostra";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Afegir les emissores de mostra";
 
 /* Sharing */
 
@@ -406,12 +406,12 @@
 
 /* Assistive Mode */
 
-"PREFERENCES_GENERAL_ACCESSIBILITY_HEADER" = "Accessibility";
-"ASSISTIVE_DESCRIPTION" = "Assistive Mode is a simplified read-only user interface for Broadcasts designed for use with accessibility features like Assistive Access.\n\nEnabling this mode requires a relaunch of Broadcasts.";
-"ASSISTIVE_ENTER" = "Enter Assistive Mode";
-"ASSISTIVE_EXIT" = "Exit Assistive Mode";
+"PREFERENCES_GENERAL_ACCESSIBILITY_HEADER" = "Accessibilitat";
+"ASSISTIVE_DESCRIPTION" = "Assistive Mode és una interfície d'usuari de només lectura simplificada per a les emissions dissenyada per utilitzar-se amb funcions d'accessibilitat com ara Assistive Access.\n\nPer habilitar aquest mode cal rellançar Broadcasts.";
+"ASSISTIVE_ENTER" = "Entrar en Assistive Mode";
+"ASSISTIVE_EXIT" = "Sortir d'Assistive Mode";
 "ASSISTIVE_DIALOG_TITLE" = "Assistive Mode";
-"ASSISTIVE_DIALOG_NEXT_REGULAR" = "Broadcasts will now quit. On next launch, it will use its standard user interface.";
-"ASSISTIVE_DIALOG_NEXT_ASSISTIVE" = "Broadcasts will now quit. On next launch, it will use Assistive Mode.";
-"ASSISTIVE_DIALOG_QUIT" = "Quit";
-"ASSISTIVE_TOOLBAR_EXIT" = "Exit";
+"ASSISTIVE_DIALOG_NEXT_REGULAR" = "Broadcasts es tancarà. En el proper llançament, utilitzarà la seva interfície d'usuari estàndard.";
+"ASSISTIVE_DIALOG_NEXT_ASSISTIVE" = "Broadcasts es tancarà. En el proper llançament, utilitzarà Assistive Mode.";
+"ASSISTIVE_DIALOG_QUIT" = "Tancar";
+"ASSISTIVE_TOOLBAR_EXIT" = "Sortir";
